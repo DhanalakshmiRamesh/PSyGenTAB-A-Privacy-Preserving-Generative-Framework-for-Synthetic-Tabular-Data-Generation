@@ -1,0 +1,1 @@
+# PSyGenTAB-A-Privacy-Preserving-Generative-Framework-for-Synthetic-Tabular-Data-Generation
